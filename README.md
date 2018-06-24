@@ -1,0 +1,2 @@
+# mylibgdx
+libgdx learning resources
